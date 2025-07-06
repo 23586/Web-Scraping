@@ -1,4 +1,4 @@
-# Web Scraping Project – Product Data Extractor
+# Web Scraping Project – Saloon Data Extractor
 
 This project demonstrates web scraping using **Python + Selenium** to extract Saloon details from Fresha websites.
 
